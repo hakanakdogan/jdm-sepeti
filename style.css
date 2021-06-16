@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.indexBody{
+    background-color: #212529;
+    height: 100vh;
+}
+
+.container_login{
+    margin: auto;
+    width: 80% !important;
+    
+    padding: 10px;
+}
+
+.form_login{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.responsive_img{
+    object-fit: cover !important;
+    min-height: calc(100vh - 56px) !important;
+    max-height: calc(100vh - 56px)  !important;
+    height: calc(100vh - 56px)  !important;
+    
+}
+.responsive_img_card{
+    object-fit: cover !important;
+    min-height: 400px !important;
+    max-height: 400px !important;
+    height: 400px !important;
+    
+}
+.carousel-caption{
+    display: block !important;
+}
+.cardContainer{
+    min-width: 100vw !important;
+    max-width: 100vw !important;
+    width: 100vw !important;
+}
+.hide{
+    display: none;
+}
+.card_horizontal{
+    display: flex !important;
+}
+
+.offer_card{
+    min-height: 100% !important;
+    max-height: 100% !important;
+    padding: 0!important;
+    margin: 0!important;
+    height: 100% !important;
+}
