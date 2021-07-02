@@ -31,8 +31,8 @@ Veritabanında 5 adet tablo bulunmaktadır.
 ![gelen-teklifler](https://user-images.githubusercontent.com/54938929/122376624-fba14580-cf6c-11eb-97a1-dc05bd7561a0.png)
 
 ## Kullanılan Teknolojiler
-   * HTML: Oyunun çalışacağı Web sayfasının iskeleti HTML diliyle yazılmıştır
-   * CSS:  Oyunu oluşturan varlıklara stil eklemek için CSS dili kullanılmıştır
+   * HTML:  Web sayfasının iskeleti HTML diliyle yazılmıştır
+   * CSS:  Siteyi stillendirmek için CSS kullanılmıştır
    * PHP:  Arkaplan ile bağlantı kurmak ve veri akışını sağlamak için PHP dili kullanılmıştır
    * PHPMyAdmin: Veritabanı oluşturmak ve tablolar arası ilişkileri tanımlamak için PHPMyAdmin kullanılmıştır.
 
